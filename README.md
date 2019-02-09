@@ -1,4 +1,3 @@
-# Capstone-Project
 # Project Overview
 In the Capstone project, you will build an app of your own design in two stages. In Stage 1, you will design and plan the app, using a template that we provide in the "Instructions" node.
 
